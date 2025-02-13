@@ -2,6 +2,9 @@
 <html>
 <head>
 <style>
+body {
+  background-color: lightblue;
+}
 div {
   border: 1px solid gray;
   padding: 8px;
