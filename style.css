@@ -1,43 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div {
-  border: 1px solid gray;
-  padding: 8px;
+body {
+  background-color: lightblue;
 }
 
 h1 {
-  text-align: center;
-  text-transform: uppercase;
-  color: #4CAF50;
+  color: navy;
+  margin-left: 20px;
 }
-
-p {
-  text-indent: 50px;
-  text-align: justify;
-  letter-spacing: 3px;
-}
-
-a {
-  text-decoration: none;
-  color: #008CBA;
-}
-</style>
-</head>
-<body>
-
-<div>
-  <h1>The Rule</h1>
-<p>You cannot tell me<br>
-it feels like a huge waste,<br>
-when you forget to accept.<br>
-People also ask…<br>
-How many days does it take?<br>
-What is the rule?<br>
-<p>
-  
-  
-
-</body>
-</html>
