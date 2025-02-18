@@ -1,9 +1,7 @@
-h1 {
-  color: red;
-}
-body {
-  background-color: lightblue;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 div {
   border: 1px solid gray;
   padding: 8px;
@@ -30,11 +28,16 @@ a {
 <body>
 
 <div>
-  <h1>text formatting</h1>
-  <p>This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
-  The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored
-  <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
-</div>
+  <h1>The Rule</h1>
+<p>You cannot tell me<br>
+it feels like a huge waste,<br>
+when you forget to accept.<br>
+People also ask…<br>
+How many days does it take?<br>
+What is the rule?<br>
+<p>
+  
+  
 
 </body>
 </html>
